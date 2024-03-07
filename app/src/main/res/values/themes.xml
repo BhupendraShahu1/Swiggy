@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Swiggy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Swiggy" parent="Base.Theme.Swiggy">
+        <item name="android:statusBarColor">#CCF8F5F5</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="stroke">
+        <item name="boxStrokeWidth">5dp</item>
+    </style>
+    <style name="circleImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#F2392467</color>
+    <color name="extraWhite">#FFFFFFFF</color>
+    <color name="dineout_statusBar">#e38c7c</color>
+    <color name="genie_statusBar">#600f74</color>
+    <color name="instamart_statusBar">#2e174a</color>
+
+</resources>

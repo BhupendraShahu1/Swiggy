@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_navigation"
+    app:startDestination="@id/home2">
+
+    <fragment
+        android:id="@+id/home2"
+        android:name="com.example.swiggy.mainActivityFragment.Home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_home2_to_food2"
+            app:destination="@id/food2" />
+        <action
+            android:id="@+id/action_home2_to_orderRecords"
+            app:destination="@id/orderRecords" />
+        <action
+            android:id="@+id/action_home2_to_instamart2"
+            app:destination="@id/instamart2" />
+        <action
+            android:id="@+id/action_home2_to_dineout2"
+            app:destination="@id/dineout2" />
+        <action
+            android:id="@+id/action_home2_to_genie"
+            app:destination="@id/genie" />
+    </fragment>
+    <fragment
+        android:id="@+id/food2"
+        android:name="com.example.swiggy.mainActivityFragment.Food"
+        android:label="fragment_food"
+        tools:layout="@layout/fragment_food">
+        <action
+            android:id="@+id/action_food2_to_instamart2"
+            app:destination="@id/instamart2" />
+        <action
+            android:id="@+id/action_food2_to_orderRecords"
+            app:destination="@id/orderRecords" />
+    </fragment>
+    <fragment
+        android:id="@+id/instamart2"
+        android:name="com.example.swiggy.mainActivityFragment.Instamart"
+        android:label="fragment_instamart"
+        tools:layout="@layout/fragment_instamart">
+        <action
+            android:id="@+id/action_instamart2_to_dineout2"
+            app:destination="@id/dineout2" />
+        <action
+            android:id="@+id/action_instamart2_to_orderRecords"
+            app:destination="@id/orderRecords" />
+    </fragment>
+    <fragment
+        android:id="@+id/dineout2"
+        android:name="com.example.swiggy.mainActivityFragment.Dineout"
+        android:label="fragment_dineout"
+        tools:layout="@layout/fragment_dineout">
+        <action
+            android:id="@+id/action_dineout2_to_genie"
+            app:destination="@id/genie" />
+        <action
+            android:id="@+id/action_dineout2_to_orderRecords"
+            app:destination="@id/orderRecords" />
+    </fragment>
+    <fragment
+        android:id="@+id/genie"
+        android:name="com.example.swiggy.mainActivityFragment.Genie"
+        android:label="fragment_genie"
+        tools:layout="@layout/fragment_genie">
+        <action
+            android:id="@+id/action_genie_to_orderRecords"
+            app:destination="@id/orderRecords" />
+    </fragment>
+    <activity
+        android:id="@+id/orderRecords"
+        android:name="com.example.swiggy.OrderRecords"
+        android:label="OrderRecords" />
+</navigation>
