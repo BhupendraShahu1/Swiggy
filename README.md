@@ -59,11 +59,19 @@ Before you begin, ensure you have the following tools installed:
 - Open the app and explore the intuitive user interface.
 # OutLook
 ## Video
-https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/9868375d-268f-4d9d-82ab-2875b28ab5b6
+https://github.com/BhupendraShahu1/Swiggy/assets/149964984/6f757570-7f5e-4eac-a392-b0d51896702c
 ## ScreenShot
-<img src="https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/a2df0005-a00b-4a08-baa6-769c1e874189/Splash.jpg" alt="Splash Screen" width="200" hight="300"/>
-<img src="https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/3d22233c-b6c9-4586-a6a5-3282a6e24387/login.jPg" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/15e5568c-5946-4866-a052-c2ce77492a0b/firstScreen.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/7c98a52a-2714-4f9d-91b1-4dbe1782c9ac/location" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/0ab1ec47-6613-43f9-b24f-0294374d1db8/Home.jpg"  alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/d6f30d6a-6c35-49f2-8646-9eec9c7d23d6/food.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/8f505ded-e5fa-4e10-a65b-29ed62fb1feb/instamart.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/64bb8b79-c394-4b7e-bb0b-d7d76e969ed0/dinout.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/e7cf50c1-0351-473b-83f9-c027fbd2ff42/genie.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/1b3db784-9b07-4d73-82f2-551a44a4c245/food_order_list.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/15b62896-00f5-4afe-b3f3-267c792a4c5d/order_summery.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/ffe2265a-5f59-4cca-abbd-8c9a9848aa2e/order_success.jpg" alt="Splash Screen" width="200" hight="300"/>
+<img src="https://github.com/BhupendraShahu1/Swiggy/assets/149964984/f65a856e-1367-409a-96a5-cecdea60245e/history.jpg" alt="Splash Screen" width="200" hight="300"/>
 
-<img src="https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/b56b14f7-7284-44fb-9839-5359580e5341.jpg" width="200" hight="300"/>
-<img src="https://github.com/BhupendraShahu1/WeatherApp/assets/149964984/0239045d-192b-4e59-8189-311e4076ec3f/.jpg" width="200" hight="300"/>
+
 
