@@ -5,9 +5,8 @@ Our Swiggy-like app developed using MVVM architecture in Kotlin offers a seamles
 - # Feature
 - ## Splash Screen:
 Engagingly displays the app logo, transitioning to the login screen after a brief period
-## MainScreen 
-- SearchBar are use to search the Weather Location
-- And other UI part are show the Temprature and Location And Envierment
+- # MainScreen 
+- In this screen we implement  bottom navigation  home , food,instamart,dineout,Genie are listed  and these are implemented using fragment Navigation
 - ## Food Screen
  Provides access to nearby restaurants or food categories. Implements search functionality for efficient browsing
 - ## Food Selection
